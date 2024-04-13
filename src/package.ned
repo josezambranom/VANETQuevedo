@@ -1,0 +1,3 @@
+package vanetquevedo;
+
+@license(LGPL);

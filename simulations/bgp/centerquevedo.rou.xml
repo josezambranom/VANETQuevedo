@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 01/09/24 01:18:35 by Eclipse SUMO duarouter Version 1.8.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="centerquevedo.net.xml"/>
+        <route-files value="centerquevedo.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="centerquevedo.rou.xml"/>
+        <alternatives-output value="centerquevedo.rou.alt.xml"/>
+    </output>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="0" depart="0.00">
+        <route edges="444985857#0 444985857#2 557817571#1 107688667#0 107688667#1 264968465#2 465563784 1178317154#0 -1178317154#0"/>
+    </vehicle>
+    <vehicle id="1" depart="1.00">
+        <route edges="120703475#0 1178317152#1 1178317152#2 465563784 1178317154#0 1178317154#1"/>
+    </vehicle>
+    <vehicle id="2" depart="2.00">
+        <route edges="467553305 504399859#0 239576501#2 239576501#3 239576501#4 107688667#0 107688667#1 264968465#2 465563784 1178317154#0 1178317154#1 465563786#0"/>
+    </vehicle>
+    <vehicle id="3" depart="3.00">
+        <route edges="504399861#0 -504399861#0"/>
+    </vehicle>
+    <vehicle id="4" depart="4.00">
+        <route edges="167420631 471541552#0 471541552#1 239576501#4 107688667#0 107688667#1 264968465#2 465563784 1178317154#0 -1178317154#0"/>
+    </vehicle>
+    <vehicle id="5" depart="5.00">
+        <route edges="1178317154#1 120703475#0 120703475#1 120703475#3 120703475#4 120703475#5 120703475#6 120703475#7 1178332166 239576501#1 239576501#2"/>
+    </vehicle>
+    <vehicle id="6" depart="6.00">
+        <route edges="-1178317154#1 1178317154#1 465563786#0 465563786#1 444985857#0 1178317153"/>
+    </vehicle>
+    <vehicle id="7" depart="7.00">
+        <route edges="444985857#2 557817571#1 239576501#6 239576501#7"/>
+    </vehicle>
+    <vehicle id="8" depart="8.00">
+        <route edges="1178317154#1 120703475#0 120703475#1 107688667#1 220735359 -220735359 264968474#0 264968474#1"/>
+    </vehicle>
+    <vehicle id="9" depart="9.00">
+        <route edges="471541554#1 -107688803#1 -107688803#0"/>
+    </vehicle>
+    <vehicle id="10" depart="10.00">
+        <route edges="471541554#0 167420631 471541552#0 471541552#1 239576501#4 239576501#6 239576501#7 465563786#1 465563786#2"/>
+    </vehicle>
+    <vehicle id="11" depart="11.00">
+        <route edges="120703475#6 120703475#7 1178332166 239576501#1 239576501#2 239576501#3 239576501#4 239576501#6 1178317152#0"/>
+    </vehicle>
+    <vehicle id="12" depart="12.00">
+        <route edges="557817571#1 107688667#0 120703475#3 120703475#4 120703475#5 120703475#6"/>
+    </vehicle>
+    <vehicle id="13" depart="13.00">
+        <route edges="-504399861#0 167420625 1178332166 239576501#1 239576501#2 239576501#3 239576501#4 107688667#0"/>
+    </vehicle>
+    <vehicle id="14" depart="14.00">
+        <route edges="502513996#2 264968474#0 264968474#1 264968474#2"/>
+    </vehicle>
+    <vehicle id="15" depart="15.00">
+        <route edges="471541554#1 557817573 557817571#1 107688667#0 120703475#3 120703475#4 120703475#5 1178332167#0 1178332167#1 471541553 467553305"/>
+    </vehicle>
+    <vehicle id="16" depart="16.00">
+        <route edges="239576501#6 1178317151#0 444985857#2 557817572#0"/>
+    </vehicle>
+    <vehicle id="17" depart="17.00">
+        <route edges="167411126#3 465563786#3 107688803#0 107688803#1 557817573 557817571#1 239576501#6 239576501#7"/>
+    </vehicle>
+    <vehicle id="18" depart="18.00">
+        <route edges="502513996#0 502513996#1 502513996#2 299060655#2"/>
+    </vehicle>
+    <vehicle id="19" depart="19.00">
+        <route edges="504399859#0 239576501#2 239576501#3 239576501#4 107688667#0 107688667#1 220735359 -220735359 264968474#0"/>
+    </vehicle>
+    <vehicle id="20" depart="20.00">
+        <route edges="465563786#3 107688803#0 107688803#1 557817573 557817571#1 107688667#0 120703475#3 120703475#4 120703475#5 120703475#6 120703475#7 -167420625"/>
+    </vehicle>
+
+</routes>
